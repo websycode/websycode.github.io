@@ -1,0 +1,64 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * abril-display:
+ *   - http://typekit.com/eulas/0000000000000000000119a6
+ *   - http://typekit.com/eulas/0000000000000000000119ab
+ *   - http://typekit.com/eulas/0000000000000000000119ac
+ *   - http://typekit.com/eulas/0000000000000000000119ae
+ *   - http://typekit.com/eulas/0000000000000000000119af
+ *   - http://typekit.com/eulas/0000000000000000000119b0
+ *   - http://typekit.com/eulas/000000000000000000012128
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-07-10 19:05:40 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=pho0bbz&ht=tk&f=14048.14053.14054.14056.14057.14058.15537&a=379506&app=typekit&e=css");
+
+@font-face {
+font-family:"abril-display";
+src:url("https://use.typekit.net/af/6482d7/0000000000000000000119a6/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/6482d7/0000000000000000000119a6/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/6482d7/0000000000000000000119a6/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"abril-display";
+src:url("https://use.typekit.net/af/f8a954/0000000000000000000119ab/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/f8a954/0000000000000000000119ab/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/f8a954/0000000000000000000119ab/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"abril-display";
+src:url("https://use.typekit.net/af/1ed5c1/0000000000000000000119ac/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/1ed5c1/0000000000000000000119ac/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/1ed5c1/0000000000000000000119ac/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"abril-display";
+src:url("https://use.typekit.net/af/ab0244/0000000000000000000119ae/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/ab0244/0000000000000000000119ae/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/ab0244/0000000000000000000119ae/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;
+}
+
+@font-face {
+font-family:"abril-display";
+src:url("https://use.typekit.net/af/a2d1b8/0000000000000000000119af/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/a2d1b8/0000000000000000000119af/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/a2d1b8/0000000000000000000119af/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;
+}
+
+@font-face {
+font-family:"abril-display";
+src:url("https://use.typekit.net/af/3329a4/0000000000000000000119b0/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n8&v=3") format("woff2"),url("https://use.typekit.net/af/3329a4/0000000000000000000119b0/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n8&v=3") format("woff"),url("https://use.typekit.net/af/3329a4/0000000000000000000119b0/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n8&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;
+}
+
+@font-face {
+font-family:"abril-display";
+src:url("https://use.typekit.net/af/514cbd/000000000000000000012128/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i9&v=3") format("woff2"),url("https://use.typekit.net/af/514cbd/000000000000000000012128/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i9&v=3") format("woff"),url("https://use.typekit.net/af/514cbd/000000000000000000012128/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i9&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:900;
+}
+
+.tk-abril-display { font-family: "abril-display",sans-serif; }
